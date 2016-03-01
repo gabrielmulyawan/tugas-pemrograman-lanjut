@@ -1,0 +1,6 @@
+Nama : Gabriel Mulyawan
+Nim  : 155150201111135
+Class    : TugasCerpen dan Data.
+Object   : in, masukan, Mahasiswa.
+Method   : Nim, Nama, JumlahKata, getNim, getNama, JumlahKata, dan main.
+Attribut : nim, nama_mahasiswa,dan jumlah_kata_perhalaman.
